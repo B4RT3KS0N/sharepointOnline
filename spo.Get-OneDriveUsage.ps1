@@ -9,6 +9,10 @@ and generates a report showing the owner, URL, assigned quota, used storage, and
 .EXAMPLE
 .\spo.Get-OneDriveUsage.ps1
 # Outputs the report to a CSV file and displays the table in the console.
+
+.NOTES
+Author: Bartłomiej Tybura
+Version: 1.0
 #>
 
 # Ensure required module is installed
